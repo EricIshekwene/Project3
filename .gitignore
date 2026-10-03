@@ -1,0 +1,10 @@
+# Bundler / local gem installs
+.bundle/
+vendor/
+*.gem
+
+# OS cruft
+.DS_Store
+
+# Local config holding each group's MockAPI URL (copy config.example.rb -> config.rb)
+config.rb
