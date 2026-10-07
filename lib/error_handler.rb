@@ -38,7 +38,7 @@ module ErrorHandler
     true
   end
 
-  def self.response_messageresponse
+  def self.response_message response
     case response.code
     when 200
       "Request successful."
