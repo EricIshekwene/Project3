@@ -8,3 +8,6 @@ vendor/
 
 # Local config holding each group's MockAPI URL (copy config.example.rb -> config.rb)
 config.rb
+
+#IDEA
+.idea/
